@@ -1,0 +1,77 @@
+.container {
+
+  margin: auto;
+  text-align: center;
+  padding: 2% 0 6%;
+  position: relative;
+}
+
+.dice1 {
+  text-align: center;
+  display: inline-block;
+  position: absolute;
+  left: 9%;
+  top: 83%;
+}
+
+.dice2{
+  text-align: center;
+  display: inline-block;
+  position: absolute;
+  right: 12%;
+  top: 83%;
+}
+
+
+body {
+
+}
+
+.container h1 {
+
+  font-family: 'Merriweather', serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  font-weight: 900;
+  color: #4ECCA3;
+
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Sacramento', cursive;
+  font-weight: 900;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-size: 2rem;
+  letter-spacing: 2px;
+  font-family: 'Sacramento', cursive;
+  font-weight: 900;
+
+}
+
+
+.button{
+  text-align: center;
+  padding: 5%;
+  position:absolute;
+  top: 70%;
+  left: 38.5%;
+}
+
+.canva{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  z-index: -1;
+}
